@@ -22,7 +22,7 @@ config = {
 
     "message": {
         "doMessage": False, 
-        "message": "Bye bye :)",
+        "message": "Bordo Mavi, bize heryer Trabzon. Hacklendin !! DDOS saldırısı geliyor !! SİMİT ",
         "richMessage": True,
     },
 
